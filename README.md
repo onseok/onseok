@@ -6,5 +6,7 @@
 - 🌱 Learning [Flow](https://developer.android.com/kotlin/flow) & [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) for Observer Pattern. 
 - 🤔 Looking for open source projects to contribute to.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr245)](https://solved.ac/dnjstjr245/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onseok&&show_icons=true&theme=radical)
+<p>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr245" height=170>
+<img src="https://github-readme-stats.vercel.app/api?username=dnjstjr245&show_icons=true&theme=dark" height=170>
+</p>
