@@ -8,5 +8,5 @@
 
 <p>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr245" height=170>
-<img src="https://github-readme-stats.vercel.app/api?username=dnjstjr245&show_icons=true&theme=dark" height=170>
+<img src="https://github-readme-stats.vercel.app/api?username=onseok&show_icons=true&theme=dark" height=170>
 </p>
