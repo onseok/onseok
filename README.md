@@ -7,4 +7,4 @@
 - 🤔 Looking for open source projects to contribute to.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr245)](https://solved.ac/dnjstjr245/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onseok&&show_icons=true&theme=radical)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onseok&&show_icons=true&theme=radical)
