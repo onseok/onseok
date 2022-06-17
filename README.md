@@ -10,6 +10,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <p>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr245" height=170>
-<img src="https://github-readme-stats.vercel.app/api?username=onseok&show_icons=true&theme=dark" height=170>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr245" height=180>
+<img src="https://github-readme-stats.vercel.app/api?username=onseok&show_icons=true&theme=dark" height=180>
 </p>
