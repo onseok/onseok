@@ -4,7 +4,8 @@
 - :mortar_board: College student
 - 🌱 Learning [Coroutines](https://developer.android.com/kotlin/coroutines), [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager/basics) for Asynchronous.
 - 🌱 Learning [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for Dependency Injection.
-- 🌱 Learning [Flow](https://developer.android.com/kotlin/flow) & [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) for Observer Pattern. 
+- 🌱 Learning [Flow](https://developer.android.com/kotlin/flow) & [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) for Observer Pattern.
+- 🌱 Learning [Room](https://developer.android.com/training/data-storage/room) & [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) for Local Storage.
 - 🤔 Looking for open source projects to contribute to.
 - 💪 I'm really into doing weight training.
 
